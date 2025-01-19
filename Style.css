@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #f4a261;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 30px;
+  background: #fefae0;
+}
+
+.hero img {
+  max-width: 100%;
+  height: auto;
+}
+
+.lead-form {
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.lead-form input,
+.lead-form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.benefits, .testimonials {
+  padding: 20px;
+  background: #e9ecef;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #2a9d8f;
+  color: white;
+}
